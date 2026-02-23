@@ -37,8 +37,8 @@ Este material faz parte do meu portfólio de estudos em Administração de Siste
 systemctl-na-pratica/
 │
 ├── README.md
-├── systemd-overview.md
-├── systemctl-na-pratica.md
-├── gerenciamento-servicos.md
-├── journalctl-logs.md
-└── troubleshooting-systemd.md
+├── criando-um-servico.md
+├── gerenciamento-com-systemctl.md
+├── journalctl-e-logs.md
+├── timers-no-systemd.md
+└── units-e-targets.md
