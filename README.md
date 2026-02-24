@@ -42,3 +42,4 @@ systemctl-na-pratica/
 ├── journalctl-e-logs.md
 ├── timers-no-systemd.md
 └── units-e-targets.md
+└── troubleshooting-real.md
